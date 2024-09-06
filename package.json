@@ -1,0 +1,14 @@
+{
+  "name": "test-cucumber-parallel",
+  "version": "1.0.0",
+  "description": "Testing parallel with ES Modules",
+  "type": "module",
+  "main": "parallel.js",
+  "scripts": {
+    "test": "node parallel.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.9.0"
+  }
+}
